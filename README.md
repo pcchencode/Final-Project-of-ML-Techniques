@@ -35,7 +35,7 @@ There are several files which contain all the information about the task:
   - Book-Rating: the predicted book rating
   
 ### Evaluation
-The submission website has two tracks of competition, each evaluated with a different goodnedd measure
+The submission website has two tracks of competition, each evaluated with a different goodness measure
 
 * Track 1: [Mean Absolute Error(MAE)](https://en.wikipedia.org/wiki/Mean_absolute_error)
 * Track 2: [Mean Absolute Percentage Error(MAPE)](https://en.wikipedia.org/wiki/Mean_absolute_percentage_error)
