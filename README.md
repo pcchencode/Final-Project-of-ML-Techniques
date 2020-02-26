@@ -23,13 +23,13 @@ There are several files which contain all the information about the task:
 
 * **books.csv**: Containing content information about books
 
-  – ISBN: International Standard Book Number
-  – Book-Title: content-based information
-  – Book-Author: content-based information
-  – Year-Of-Publication: content-based information – Publisher: content-based information
-  – Image-URL-S: URLs linking to cover images (small size)
-  – Image-URL-M: URLs linking to cover images (medium size) – Image-URL-L: URLs linking to cover images (large size)
-  – Book-Description: TA-crawled descriptions of books
+  - ISBN: International Standard Book Number
+  - Book-Title: content-based information
+  - Book-Author: content-based information
+  - Year-Of-Publication: content-based information – Publisher: content-based information
+  - Image-URL-S: URLs linking to cover images (small size)
+  - Image-URL-M: URLs linking to cover images (medium size) – Image-URL-L: URLs linking to cover images (large size)
+  - Book-Description: TA-crawled descriptions of books
   
 * **subimssion.csv**: Our book-rating predictions for testing samples
   - Book-Rating: the predicted book rating
