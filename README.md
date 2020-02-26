@@ -48,4 +48,4 @@ The submission website has two tracks of competition, each evaluated with a diff
 * Track1: Rank 5/21
 * Track2: Rank 8/21
   
-  * For other details, please refer to the file `spec.pdf` and `project.pdf`
+#### For other details, please refer to the file `project.pdf`
