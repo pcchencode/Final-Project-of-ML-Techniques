@@ -22,6 +22,7 @@ There are several files which contain all the information about the task:
   - Book-Rating: all the book ratings are implicit, that is 0
 
 * **books.csv**: Containing content information about books
+
   – ISBN: International Standard Book Number
   – Book-Title: content-based information
   – Book-Author: content-based information
