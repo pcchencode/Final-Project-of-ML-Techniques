@@ -45,6 +45,10 @@ The submission website has two tracks of competition, each evaluated with a diff
 * Random Forest
 * Adative Boosting
 
+### Submission
+* Code: [Final Project- Book Rating Prediction0626.ipynb](https://github.com/pcchencode/Final-Project-of-ML-Techniques/blob/master/Final%20Project-%20Book%20Rating%20Prediction0626.ipynb)
+* file: `submission.csv`
+
 ### Result
 * Track1: Rank 5/21
 * Track2: Rank 8/21
