@@ -47,7 +47,7 @@ The submission website has two tracks of competition, each evaluated with a diff
 
 ### Submission
 * Code: [Final Project- Book Rating Prediction0626.ipynb](https://github.com/pcchencode/Final-Project-of-ML-Techniques/blob/master/Final%20Project-%20Book%20Rating%20Prediction0626.ipynb)
-* file: `submission.csv`
+* file: [submission.csv](https://github.com/pcchencode/Final-Project-of-ML-Techniques/blob/master/submission.csv)
 
 ### Result
 * Track1: Rank 5/21
